@@ -5,7 +5,7 @@ Edge detection is a process of identifying boundaries within an image by detecti
 ![in](https://github.com/agkittens/edge-detection/blob/main/assets/greenland.bmp?raw=true)
 
 ## Output image
-![in](https://github.com/agkittens/edge-detection/blob/main/assets/sobel.bmp?raw=true)
+![out](https://github.com/agkittens/edge-detection/blob/main/assets/sobel.bmp?raw=true)
 
 
 ## Requirements
