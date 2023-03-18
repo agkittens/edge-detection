@@ -12,7 +12,7 @@ def main():
         imageCopy = Image.open(filePath, 'r')
         imageData = Img(image,imageCopy)
         imageData.masking()
-        imageData.loadingPixels(image)
+        imageData.loadingPixels()
         print('saved')
         image.close()
 
