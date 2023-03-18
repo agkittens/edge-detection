@@ -28,7 +28,7 @@ class Img:
 
             self.pixels[pixelW+1, pixelH+1] = (r, g, b)
 
-    def loadingPixels(self,image):
+    def loadingPixels(self):
         imageTransformed = Image.new(mode = 'RGB', size = (self.width, self.height))
 
         for pixelH, pixelW in itertools.product(range(self.height-4), range(self.width-4)):
