@@ -1,6 +1,5 @@
 from PIL import Image
 from ImgData import Img
-#C:\Users\agkit\Desktop\edge detection\greenland.bmp
 
 def main():
     print('enter image path: ')
