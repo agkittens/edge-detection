@@ -2,10 +2,10 @@
 Edge detection is a process of identifying boundaries within an image by detecting the sudden changes in intensity values. This edge detection app uses Sobel operater to identify edges by using 4 masks.
 
 ## Input image
-<img src="[http://url/image.png](https://github.com/agkittens/edge-detection/blob/main/assets/greenland.bmp)" height="100" width="180" >
+<img src="[http://url/image.png](https://github.com/agkittens/edge-detection/blob/main/assets/greenland.bmp)" height="280" width="200" >
 
 ## Output image
-<img src="[http://url/image.png](https://github.com/agkittens/edge-detection/blob/main/assets/sobel.png)" height="100" width="180" >
+<img src="[http://url/image.png](https://github.com/agkittens/edge-detection/blob/main/assets/sobel.png)" height="280" width="200" >
 
 
 ## Requirements
